@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LABXML>
+  <ships>
+    <ship>
+      <idship>1</idship>
+      <name>Black-Jack</name>
+      <amoutpasengers>20</amoutpasengers>
+      <shipingCompany>OdesaBud</shipingCompany>
+      <yearofconstruction>1999</yearofconstruction>
+      <type>Sea</type>
+    </ship>
+    <ship>
+      <idship>2</idship>
+      <name>Belatries</name>
+      <amoutpasengers>30</amoutpasengers>
+      <shipingCompany>Seasail</shipingCompany>
+      <yearofconstruction>2000</yearofconstruction>
+      <type>Sea</type>
+    </ship>
+    <ship>
+      <idship>3</idship>
+      <name>Black-Pearl</name>
+      <amoutpasengers>50</amoutpasengers>
+      <shipingCompany>Flot</shipingCompany>
+      <yearofconstruction>1980</yearofconstruction>
+      <type>River</type>
+    </ship>
+    <ship>
+      <idship>4</idship>
+      <name>Flying-Dutch</name>
+      <amoutpasengers>60</amoutpasengers>
+      <shipingCompany>Flot</shipingCompany>
+      <yearofconstruction>1950</yearofconstruction>
+      <type>River</type>
+    </ship>
+  </ships>
+  <shipings>
+    <shiping>
+      <idshiping>1</idshiping>
+      <shipingCompany>OdesaBud</shipingCompany>
+      <location>Black sea</location>
+    </shiping>
+    <shiping>
+      <idshiping>2</idshiping>
+      <shipingCompany>Seasail</shipingCompany>
+      <location>Mediterranean Sea</location>
+    </shiping>
+    <shiping>
+      <idshiping>3</idshiping>
+      <shipingCompany>Flot</shipingCompany>
+      <location>Caribbean Sea</location>
+    </shiping>
+  </shipings>
+  <rivers>
+    <river>
+      <idriver>1</idriver>
+      <nameRiver>Dnipro</nameRiver>
+      <length>10000</length>
+      <width>1,5</width>
+      <amountTributaries>5</amountTributaries>
+    </river>
+    <river>
+      <idriver>2</idriver>
+      <nameRiver>Dunai</nameRiver>
+      <length>5000</length>
+      <width>1</width>
+      <amountTributaries>2</amountTributaries>
+    </river>
+    <river>
+      <idriver>3</idriver>
+      <nameRiver>Gorin</nameRiver>
+      <length>3000</length>
+      <width>0,2</width>
+      <amountTributaries>3</amountTributaries>
+    </river>
+  </rivers>
+  <rivers>
+    <seas>
+      <sea>
+        <idsea>1</idsea>
+        <nameSea>Black sea</nameSea>
+        <square>300000</square>
+      </sea>
+      <sea>
+        <idsea>2</idsea>
+        <nameSea>Mediterranean Sea</nameSea>
+        <square>500000</square>
+      </sea>
+      <sea>
+        <idsea>3</idsea>
+        <nameSea>Caribbean Sea</nameSea>
+        <square>200000</square>
+      </sea>
+    </seas>
+  </rivers>
+</LABXML>
