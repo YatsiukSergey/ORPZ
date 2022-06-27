@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\LAbLINQ\LAbLINQ\bin\Debug\netcoreapp3.1\LAbLINQ.exe
+C:\Users\user\source\repos\LAbLINQ\LAbLINQ\bin\Debug\netcoreapp3.1\LAbLINQ.deps.json
+C:\Users\user\source\repos\LAbLINQ\LAbLINQ\bin\Debug\netcoreapp3.1\LAbLINQ.runtimeconfig.json
+C:\Users\user\source\repos\LAbLINQ\LAbLINQ\bin\Debug\netcoreapp3.1\LAbLINQ.runtimeconfig.dev.json
+C:\Users\user\source\repos\LAbLINQ\LAbLINQ\bin\Debug\netcoreapp3.1\LAbLINQ.dll
+C:\Users\user\source\repos\LAbLINQ\LAbLINQ\bin\Debug\netcoreapp3.1\LAbLINQ.pdb
+C:\Users\user\source\repos\LAbLINQ\LAbLINQ\obj\Debug\netcoreapp3.1\LAbLINQ.csprojAssemblyReference.cache
+C:\Users\user\source\repos\LAbLINQ\LAbLINQ\obj\Debug\netcoreapp3.1\LAbLINQ.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\LAbLINQ\LAbLINQ\obj\Debug\netcoreapp3.1\LAbLINQ.AssemblyInfo.cs
+C:\Users\user\source\repos\LAbLINQ\LAbLINQ\obj\Debug\netcoreapp3.1\LAbLINQ.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\LAbLINQ\LAbLINQ\obj\Debug\netcoreapp3.1\LAbLINQ.dll
+C:\Users\user\source\repos\LAbLINQ\LAbLINQ\obj\Debug\netcoreapp3.1\LAbLINQ.pdb
+C:\Users\user\source\repos\LAbLINQ\LAbLINQ\obj\Debug\netcoreapp3.1\LAbLINQ.genruntimeconfig.cache
